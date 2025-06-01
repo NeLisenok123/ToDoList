@@ -24,9 +24,9 @@ cd ToDoList
 pip install -r requirements.txt
 
 
-## Запуск
+### Запуск
 python main.py
 
 
-## Авторы и контакты
+### Авторы
 Авторы: NeLisenok123 и nastyabak
