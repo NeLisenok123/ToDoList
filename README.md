@@ -22,7 +22,7 @@
 git clone https://github.com/NeLisenok123/ToDoList.git
 cd ToDoList
 pip install -r requirements.txt
-
+```
 
 ### Запуск
 python main.py
